@@ -23,7 +23,7 @@ function Navbar() {
         <Link to=''><li>Sell Books</li></Link> */}
         <li>Home</li>
         <li>Contact Us</li>
-        <li>About</li>
+        <li>Categories</li>
         <li>Login/Sign up</li>
       </ul>
       <div className="nav-icons">
