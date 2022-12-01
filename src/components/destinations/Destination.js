@@ -11,7 +11,7 @@ function Destination() {
   return (
     <div className="destinations">
       <div className="container">
-        <h1>Best Selling Books of 2021</h1>
+        <h2>Best Selling Books of 2021</h2>
         <div className="img-container">
           <img src={iewu} alt="" />
           <img src={ikigai} alt="" />
